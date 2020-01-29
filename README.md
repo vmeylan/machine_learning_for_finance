@@ -5,11 +5,15 @@ The objective of this course is to introduce machine learning techniques for fin
 
 The assessment method was based on the programming project available on this repository.
 
-It was co-realized with [Tomas Giro](https://github.com/girotomas).
+The project had been co-created with [Tomas Giro](https://github.com/girotomas).
 
-### Abstract —
+### Analysis of the predictability power of Ethereum blockchain data
+#### Abstract —
 We investigate if we can find causation relations between deposits to, and withdrawals from exchanges’ wallets, and volatility of ERC-20 tokens (more precisely ZRX, THETA and ENJ).We find no significant evidence of predictability of volatility with linear models (OLS) and non-linear ones (Random Forest). We find significance in the predictability power of transactions from and to exchanges (for the Theta and Enjin tokens only) and bitcoin prices to predict volatility, with regressive ARIMA models.
-
+#### Index Terms —
+volatility, cryptocurrency, ERC-20, Ethereum,
+blockchain, prediction, machine learning, dynamic regression,
+ARIMAX
 
 [Data prepocessing viewer](https://nbviewer.jupyter.org/github/vmeylan/machine_learning_for_finance/blob/master/notebooks/data_preprocessing.ipynb)
 
@@ -17,5 +21,5 @@ We investigate if we can find causation relations between deposits to, and withd
 
 Data analysis and fitting of models available in machine_learning_for_finance/notebooks/data_analysis
 
-To run the analysis independently of GitHub, use this [link](https://colab.research.google.com/drive/1GpoQFGftNHBXgzQrt0YsQXcoZqgUZlDW)
+To run the analysis independently of GitHub, use this Google Colab research [link](https://colab.research.google.com/drive/1GpoQFGftNHBXgzQrt0YsQXcoZqgUZlDW).
 
