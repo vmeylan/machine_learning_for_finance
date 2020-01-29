@@ -7,6 +7,10 @@ The assessment method was based on the programming project available on this rep
 
 It was co-realized with [Tomas Giro](https://github.com/girotomas).
 
+### Abstract —
+We investigate if we can find causation relations between deposits to, and withdrawals from exchanges’ wallets, and volatility of ERC-20 tokens (more precisely ZRX, THETA and ENJ).We find no significant evidence of predictability of volatility with linear models (OLS) and non-linear ones (Random Forest). We find significance in the predictability power of transactions from and to exchanges (for the Theta and Enjin tokens only) and bitcoin prices to predict volatility, with regressive ARIMA models.
+
+
 [Data prepocessing viewer](https://nbviewer.jupyter.org/github/vmeylan/machine_learning_for_finance/blob/master/notebooks/data_preprocessing.ipynb)
 
 [Data analysis viewer](https://nbviewer.jupyter.org/github/vmeylan/machine_learning_for_finance/blob/master/notebooks/data_analysis/data_analysis_ZRX.ipynb)
