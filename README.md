@@ -4,6 +4,7 @@ FIN-418 Machine learning for finance is an EPFL graduate course, lectured by Pro
 The objective of this course is to introduce machine learning techniques for financial applications such as derivatives pricing, model calibration, portfolio allocation and hedging, investment decision, and risk-management.
 
 The assessment method was based on the programming project available on this repository.
+
 It was co-realized with [Tomas Giro](https://github.com/girotomas).
 
 [Data prepocessing viewer](https://nbviewer.jupyter.org/github/vmeylan/machine_learning_for_finance/blob/master/notebooks/data_preprocessing.ipynb)
